@@ -22,7 +22,7 @@ def drop():
 
 
 def add_state():
-    a = States(100, 100)
+    a = States(100, 140)
     state_group.add(a)
     current = a
     return current
